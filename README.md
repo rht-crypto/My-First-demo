@@ -1,4 +1,4 @@
 # My-First-demo
 This is my first Git repository.
-<hr>
+<br>
 Author - Rohitkumar
